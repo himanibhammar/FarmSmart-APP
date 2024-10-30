@@ -1,11 +1,11 @@
-# FarmSmart
+# FarmSmart -
 
 FarmSmart is a web-based open discussion portal providing information and solutions about crops, fertilizers, vegetables, Seeds, Fruits, and climate to small farmers and agricultural students.<br>
 
 The portal provides soil analysis for various regions and suggestions based on the soil condition and climate. 
 
 
-## Modules
+## Modules 
 - Admin
 - Login/Register
 - Check Weather
